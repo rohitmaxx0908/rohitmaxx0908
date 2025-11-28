@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/JP8m9nF.png" alt="ROHIT Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi 👋, I'm ROHIT</h1>
 <h3 align="center">Fullstack Developer | Java • Spring Boot • React • Node.js</h3>
 
@@ -12,16 +7,18 @@
 
 - 🚀 Fullstack Developer from **India**
 - 👨‍💻 Building real-world apps using **Java, Spring Boot, React, MySQL, MongoDB**
-- 🔧 Currently working on **Amazon Clone**, **UI Component Library**, **Auth Systems**
+- 🔧 Working on **Amazon Clone**, **UI Component Library**, **Auth Systems**
 - 🌱 Learning **AWS**, **Docker**, **Cloud Deployment**
-- 💼 Goal: Become a **Java Fullstack + Cloud Engineer**
+- 🎯 Goal: Become a **Java Fullstack + Cloud Engineer**
 - 📫 Reach me at: **voodarohit0908@gmail.com**
 
 ---
 
 ## 🔗 Connect With Me  
 <p align="left">
-<a href="https://linkedin.com/in/rohitvooda" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/rohitvooda" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
 ---
@@ -56,29 +53,29 @@
 - 🛒 **Amazon Clone** (React + Spring Boot + MySQL)
 - 🔐 Authentication & Authorization systems
 - 🧩 UI Component Library
-- ☁ Learning Cloud Deployment (AWS, EC2, S3)
+- ☁ Learning **Cloud Deployment (AWS, EC2, S3)**
 - 🚀 Improving Backend Architecture & APIs
 
 ---
 
 ## 🚀 Featured Projects
 
-### ⭐ Amazon Clone  
-Full eCommerce platform with cart, orders, payments, admin, auth.  
+### ⭐ **Amazon Clone**  
+Full eCommerce platform with cart, orders, payments, admin, and auth.  
 **Tech:** React, Spring Boot, MySQL  
 🔗 https://github.com/rohitvooda/Amazon-Clone
 
 ---
 
-### ⭐ Portfolio Website  
-Modern personal portfolio website  
+### ⭐ **Portfolio Website**  
+Modern personal portfolio website.  
 **Tech:** HTML, CSS, JS  
 🔗 https://github.com/rohitvooda/portfolio
 
 ---
 
-### ⭐ UI Components Project  
-Reusable animated UI components for frontend  
+### ⭐ **UI Components Project**  
+Reusable animated UI components for frontend.  
 **Tech:** React  
 🔗 Coming soon...
 
@@ -99,13 +96,6 @@ Reusable animated UI components for frontend
 
 ## ✨ Fun Quote  
 > **“Code. Create. Improve. Repeat.”**
-
----
-
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rohitvooda/rohitvooda/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
