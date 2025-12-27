@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm ROHIT</h1>
-<h3 align="center">Fullstack Developer | Java • Spring Boot • React • Node.js</h3>
+<h3 align="center">Fullstack Developer | Java • React • Node.js</h3>
 
 ---
 
 ## 🔥 About Me
 
 - 🚀 Fullstack Developer from **India**
-- 👨‍💻 Building real-world apps using **Java, Spring Boot, React, MySQL, MongoDB**
+- 👨‍💻 Building real-world apps using **Java, React, MySQL, MongoDB**
 - 🔧 Working on **Amazon Clone**, **UI Component Library**, **Auth Systems**
-- 🌱 Learning **AWS**, **Docker**, **Cloud Deployment**
-- 🎯 Goal: Become a **Java Fullstack + Cloud Engineer**
+- 🎯 Goal: Become a **Java Fullstack 
 - 📫 Reach me at: **voodarohit0908@gmail.com**
 
 ---
@@ -27,8 +26,6 @@
 
 ### **Backend**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### **Frontend**
@@ -62,7 +59,7 @@
 
 ### ⭐ **Amazon Clone**  
 Full eCommerce platform with cart, orders, payments, admin, and auth.  
-**Tech:** React, Spring Boot, MySQL  
+**Tech:** React, MySQL  
 🔗 https://github.com/rohitvooda/Amazon-Clone
 
 ---
@@ -81,16 +78,8 @@ Reusable animated UI components for frontend.
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rohitvooda&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitvooda&theme=tokyonight" />
-</p>
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitvooda&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
